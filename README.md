@@ -11,3 +11,6 @@ O repositório está em pt-br para que muitos que não tenham grande conheciment
 Caso tenha alguma dúvida em alguma resolução, pode me mandar mensagem pelo instagram @lucassfsp ou pelo linkedin: https://www.linkedin.com/in/lucasfrancisco1/
 
 Ps: eu sempre termino de escrever uma resolução com um 🐧 simplesmente porque eu gosto muito de pinguins haha
+
+![image](https://github.com/lucasfranciscosp/CTFs/assets/87513778/8842bbfc-1866-461d-806b-3d882b57b762)
+
